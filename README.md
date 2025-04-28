@@ -22,10 +22,10 @@
 
 <b>Тестовые примеры:</b>
 
-!["Картинка1"]("Картинка1")
+![Картинка1](https://github.com/sofiatrifonova/laba5_ToC/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B01)
 
-!["Картинка2"]("Картинка2")
+![Картинка2](https://github.com/sofiatrifonova/laba5_ToC/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B02)
 
-!["Картинка3"]("Картинка3")
+![Картинка3](https://github.com/sofiatrifonova/laba5_ToC/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B03)
 
-!["Картинка4"]("Картинка4")
+![Картинка4](https://github.com/sofiatrifonova/laba5_ToC/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B04)
